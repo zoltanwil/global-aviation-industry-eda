@@ -44,10 +44,6 @@ Comprehensive exploratory data analysis of the global aviation industry, merging
 2. Run cells sequentially to reproduce the analysis
 3. View generated charts and insights
 
-## Instructor Feedback Applied
-- Improved font sizes for readability (35pt titles, 15-17pt body)
-- Enhanced color contrast in comparative graphs
-- Stronger narrative flow connecting insights to research questions
 
 ## Author
 Zoltan Wilhelm | Data Analyst | August 2026
