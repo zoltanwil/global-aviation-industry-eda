@@ -1,0 +1,12 @@
+## Quick Start
+**Want to see the analysis?** 
+Open [`Python_project_Zoltan_presentation_route_to_profit_v5.ipynb`](link) in Google Colab for full interactive analysis.
+
+**Key metrics:**
+- 11,760 data points analyzed
+- 8 research questions answered
+- 3 major business insights discovered
+
+## Data Sources
+- Airline financials: [Global Aviation Industry 2010-2026 on Kaggle](https://www.kaggle.com/datasets/...)
+- Route performance: [Included in same Kaggle dataset]
