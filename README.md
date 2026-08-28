@@ -34,13 +34,13 @@ Comprehensive exploratory data analysis of the global aviation industry, merging
 - **Analysis Methods:** Exploratory Data Analysis, Data Visualization, Correlation Analysis
 
 ## Files
-- `aviation_eda.ipynb` - Main analysis notebook
+- `Python_project_Zoltan_presentation_route_to_profit_v5.ipynb` - Main analysis notebook
 - `airline_financials.csv` - Financial dataset
 - `route_performance.csv` - Route performance dataset
 - `visualizations/` - Generated charts and graphs
 
 ## How to Use
-1. Open `aviation_eda.ipynb` in Google Colab or Jupyter
+1. Open `Python_project_Zoltan_presentation_route_to_profit_v5.ipynb` in Google Colab or Jupyter
 2. Run cells sequentially to reproduce the analysis
 3. View generated charts and insights
 
